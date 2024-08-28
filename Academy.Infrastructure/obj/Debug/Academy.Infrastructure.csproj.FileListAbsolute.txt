@@ -1,0 +1,2 @@
+C:\Users\malik\source\repos\Academy\Academy.Infrastructure\obj\Debug\Academy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Academy\Academy.Infrastructure\obj\Debug\Academy.Infrastructure.csproj.CoreCompileInputs.cache

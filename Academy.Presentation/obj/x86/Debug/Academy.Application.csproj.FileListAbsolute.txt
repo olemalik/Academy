@@ -1,0 +1,4 @@
+C:\Users\malik\source\repos\Academy\Academy.Presentation\obj\x86\Debug\Academy.Application.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Academy\Academy.Presentation\obj\x86\Debug\Academy.Application.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Academy\Academy.Presentation\obj\x86\Debug\Academy.Presentation.dll
+C:\Users\malik\source\repos\Academy\Academy.Presentation\obj\x86\Debug\Academy.Presentation.pdb

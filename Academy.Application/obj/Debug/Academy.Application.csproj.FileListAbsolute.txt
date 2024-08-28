@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\Academy\Academy.Application\obj\Debug\Academy.Application.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Academy\Academy.Application\obj\Debug\Academy.Application.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Application.dll
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Application.pdb
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Core.dll
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Infrastructure.dll
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Core.pdb
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Core.dll.config
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Infrastructure.pdb
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\Academy.Infrastructure.dll.config
+C:\Users\malik\source\repos\Academy\Academy.Application\bin\Debug\System.Data.SQLite.xml
+C:\Users\malik\source\repos\Academy\Academy.Application\obj\Debug\Academy.Application.csproj.CopyComplete
+C:\Users\malik\source\repos\Academy\Academy.Application\obj\Debug\Academy.Application.dll
+C:\Users\malik\source\repos\Academy\Academy.Application\obj\Debug\Academy.Application.pdb

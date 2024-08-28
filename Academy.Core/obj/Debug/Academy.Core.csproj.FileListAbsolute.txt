@@ -1,0 +1,12 @@
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\Academy.Core.dll.config
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\Academy.Core.dll
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\Academy.Core.pdb
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\EntityFramework.dll
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\EntityFramework.xml
+C:\Users\malik\source\repos\Academy\Academy.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malik\source\repos\Academy\Academy.Core\obj\Debug\Academy.Core.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Academy\Academy.Core\obj\Debug\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Academy\Academy.Core\obj\Debug\Academy.Core.csproj.CopyComplete
+C:\Users\malik\source\repos\Academy\Academy.Core\obj\Debug\Academy.Core.dll
+C:\Users\malik\source\repos\Academy\Academy.Core\obj\Debug\Academy.Core.pdb
