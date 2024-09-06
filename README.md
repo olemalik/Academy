@@ -27,6 +27,7 @@ The project follows the Clean Architecture pattern, ensuring a well-organized co
 
 - **Presentation Layer**: ASP.NET Web Forms for the user interface.
 - **Application Layer**: Manages business logic and use cases.
+- **Core Layer**: To ensure that your Core Layer is robust, clean, and well-aligned with Clean Architecture principles
 - **Domain Layer**: Defines core entities and business rules.
 - **Infrastructure Layer**: Handles data access, including SQLite configuration.
 
