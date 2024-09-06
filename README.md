@@ -9,6 +9,10 @@
 - **Student Registration**: Manage student records with ease.
 - **Future Development**:
   - QR code integration for quick access and validation of student information.
+  - Web API project,the Web Forms will call a Web API, which will decouple the backend from the frontend.
+    This separation will make it easier to switch to a different frontend technology later on.
+  - Unit Test Project, are implemented in a dedicated project to verify functionality and ensure code quality across the Application and Domain layers.
+
 
 ## Tech Stack
 
