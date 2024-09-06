@@ -78,7 +78,7 @@ Academy
 │
 └── README.md                        # Project documentation
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/6d8c0e52-9bff-4c9f-84be-6f3e61b95d30">
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/6d8c0e52-9bff-4c9f-84be-6f3e61b95d30">
 
 ## Installation
 
